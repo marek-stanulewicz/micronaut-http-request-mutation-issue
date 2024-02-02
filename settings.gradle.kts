@@ -1,1 +1,1 @@
-rootProject.name="micronaut-http-request-mutation-issue"
+rootProject.name="micronaut-issues"
